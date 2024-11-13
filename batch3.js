@@ -26,3 +26,5 @@ let mid = parseInt((start+end)/2)   //12/2=  6
         start = mid  + 1
     }
 }
+
+console.log("Pratik")
